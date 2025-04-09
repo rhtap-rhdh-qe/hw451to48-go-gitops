@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hw451to48-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hw451to48-go-gitops
